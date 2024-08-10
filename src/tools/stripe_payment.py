@@ -2,8 +2,9 @@ import stripe
 import os, sqlite3
 from pydantic import Field
 from .base_tool import BaseTool
+from langsmith import traceable
 
-
+@traceable(run_type="tool", name="Generate Stripe link")
 def generate_stripe_payment_link(name: str, price: float, quantity: int) -> str:
     # Stripe API key
     stripe.api_key = os.getenv("STRIPE_API_KEY")

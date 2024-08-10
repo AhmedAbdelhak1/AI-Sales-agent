@@ -1,9 +1,11 @@
-# TechNerds E-Commerce Business Description
+# TechNerds: Your One-Stop E-Commerce and IT Consulting Solution
 
 ## Overview
-TechNerds is a premier online store specializing in the sale of high-quality computer equipment. Established in 2020, our mission is to provide top-notch products, exceptional customer service, and competitive prices. We cater to tech enthusiasts, professionals, and businesses, offering a wide range of computer components, peripherals, and accessories.
+
+TechNerds is a premier online store specializing in high-quality computer equipment and personalized IT consulting. Established in 2020, our mission is to provide top-notch products, exceptional customer service, competitive prices, and expert guidance. We cater to tech enthusiasts, professionals, and businesses, offering a wide range of computer components, peripherals, accessories, and tailored IT solutions.
 
 ## Services
+
 ### 1. Product Sales
 We offer a vast selection of computer equipment from leading brands, ensuring that our customers have access to the latest technology and reliable products.
 
@@ -16,47 +18,78 @@ We offer comprehensive technical support, assisting customers with product insta
 ### 4. Warranty and Returns
 TechNerds provides warranty coverage on all products and a hassle-free return policy to ensure customer satisfaction.
 
-## Products
-### 1. Laptops
-**Description:** Our laptops are designed to cater to a variety of needs, from gaming and professional work to everyday use. We offer models with powerful processors, high-resolution displays, and long battery life. Whether you need a lightweight ultrabook for travel or a high-performance gaming laptop, we have something for everyone.
+### 5. Personalized IT Consulting
+Our team of experienced IT professionals offers personalized consulting services to help customers make informed decisions about their technology purchases and setups:
 
-**Prices:** $500 - $2,500
+**Custom Setup Consultation:**
+- In-depth needs assessment
+- Tailored hardware and software recommendations
+- Performance optimization advice
+- Scalability planning for future upgrades
+
+**Product Selection Guidance:**
+- Comparative analysis of available options
+- Budget-conscious recommendations
+- Use case-specific product suggestions
+- Compatibility checks for existing systems
+
+**Performance Optimization Consulting:**
+- System benchmarking and analysis
+- Hardware and software optimization suggestions
+- Cooling and power efficiency recommendations
+
+**Ergonomics and Workspace Design:**
+- Ergonomic peripheral recommendations
+- Multi-monitor setup advice
+- Cable management solutions
+
+
+## Products
+
+### 1. Laptops
+**Description:** Our laptops cater to a variety of needs, from gaming and professional work to everyday use. We offer models with powerful processors, high-resolution displays, and long battery life.
 
 **Characteristics:**
-- **Processors:** Latest Intel Core i5, i7, i9, and AMD Ryzen 5, 7, 9 processors.
-- **Memory:** Options ranging from 8GB to 32GB of DDR4 RAM for smooth multitasking.
-- **Storage:** SSDs ranging from 256GB to 2TB for fast boot times and quick access to your files.
-- **Displays:** Full HD, 4K, and OLED screens with sizes ranging from 13 inches to 17 inches.
-- **Graphics:** Integrated and dedicated graphics options, including NVIDIA GeForce RTX and AMD Radeon series.
-- **Battery Life:** Up to 12 hours of battery life, depending on usage.
-- **Additional Features:** Backlit keyboards, fingerprint readers, Thunderbolt 3 ports, and advanced cooling systems.
+- **Processors:** Latest Intel Core i5, i7, i9, and AMD Ryzen 5, 7, 9 processors
+- **Memory:** 8GB to 64GB of DDR4/DDR5 RAM
+- **Storage:** SSDs ranging from 256GB to 4TB, with optional additional HDD storage
+- **Displays:** Full HD, 2K, 4K, and OLED screens with sizes from 13 to 17 inches
+- **Graphics:** Integrated and dedicated options, including NVIDIA GeForce RTX and AMD Radeon series
+- **Battery Life:** Up to 20 hours, depending on the model and usage
+- **Additional Features:** Thunderbolt 4 ports, Wi-Fi 6E, fingerprint readers, and advanced cooling systems
+
+**Laptops Prices Range:** $500 - $3,500
 
 ### 2. Desktops
-**Description:** Our desktop computers are built to handle intensive tasks, from gaming and graphic design to software development. We offer customizable configurations that allow you to choose the components that best fit your needs, ensuring optimal performance for any application.
-**Prices:** $800 - $3,000
+**Description:** Our desktop computers are built to handle intensive tasks, from gaming and graphic design to software development and data analysis.
+
 **Characteristics:**
-- **Processors:** Intel Core i5, i7, i9, and AMD Ryzen 5, 7, 9 with overclocking capabilities.
-- **Memory:** Up to 64GB of DDR4 RAM for seamless multitasking and performance.
-- **Storage:** Multiple storage options including NVMe SSDs (up to 2TB) and HDDs (up to 4TB) for extensive storage needs.
-- **Graphics:** High-end graphics cards like NVIDIA GeForce RTX 3080/3090 and AMD Radeon RX 6800/6900.
-- **Cooling Systems:** Liquid cooling and advanced air cooling solutions to maintain optimal temperatures.
-- **Expandability:** Multiple PCIe slots for additional graphics cards, Wi-Fi cards, and more.
-- **Additional Features:** RGB lighting, tempered glass panels, and high-wattage power supplies.
+- **Processors:** Intel Core i5, i7, i9, and AMD Ryzen 5, 7, 9 with overclocking capabilities
+- **Memory:** Up to 128GB of DDR4/DDR5 RAM
+- **Storage:** Multiple storage options including NVMe SSDs (up to 4TB) and HDDs (up to 20TB)
+- **Graphics:** High-end graphics cards like NVIDIA GeForce RTX 4000 series and AMD Radeon RX 7000 series
+- **Cooling Systems:** Liquid cooling and advanced air cooling solutions
+- **Expandability:** Multiple PCIe 4.0/5.0 slots, Thunderbolt 4 ports, and USB 3.2 Gen 2x2 connectivity
+- **Additional Features:** Tool-less design for easy upgrades, RGB lighting, and high-wattage modular power supplies
+
+**Desktops Prices Range:** $800 - $5,000
 
 ### 3. Monitors
-**Description:** We offer a wide range of monitors suitable for gaming, professional work, and everyday use. Our monitors provide high resolution, fast refresh rates, and vibrant color accuracy to enhance your visual experience.
-**Prices:** $150 - $1,200
+**Description:** We offer a wide range of monitors suitable for gaming, professional work, and everyday use.
+
 **Characteristics:**
-- **Display Types:** LED, IPS, VA, and OLED panels for superior color reproduction and viewing angles.
-- **Resolutions:** Full HD (1920x1080), Quad HD (2560x1440), and 4K UHD (3840x2160) for crystal-clear images.
-- **Refresh Rates:** 60Hz, 75Hz, 144Hz, and 240Hz options for smooth and responsive visuals.
-- **Screen Sizes:** Various sizes ranging from 21 inches to 32 inches, including ultrawide and curved displays.
-- **Connectivity:** HDMI, DisplayPort, USB-C, and multiple USB ports for versatility.
-- **Additional Features:** Built-in speakers, VESA mount compatibility, adjustable stands, and blue light filters.
+- **Display Types:** IPS, VA, OLED, and Mini-LED panels
+- **Resolutions:** Full HD, 2K, 4K, 5K, and 8K options
+- **Refresh Rates:** 60Hz to 360Hz for smooth visuals
+- **Screen Sizes:** 21 to 49 inches, including ultrawide and super ultrawide options
+- **Connectivity:** HDMI 2.1, DisplayPort 1.4, USB-C with power delivery
+- **Additional Features:** HDR support, adaptive sync technologies, KVM switches, and ergonomic stands
+
+**Monitors Prices Range:** $150 - $2,500
 
 ### 4. Keyboards
 **Description:** Our selection of keyboards includes both mechanical and membrane models, designed for gaming, typing, and professional use. Each keyboard offers unique features such as customizable RGB lighting and ergonomic designs to enhance your productivity and gaming experience.
-**Prices:** $50 - $200
+
 **Characteristics:**
 - **Types:** Mechanical with various switch types (Cherry MX, Razer, Logitech), membrane, and hybrid.
 - **Lighting:** Full RGB lighting with customizable effects and profiles.
@@ -64,9 +97,11 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** Wired and wireless options with Bluetooth and 2.4GHz connectivity.
 - **Additional Features:** Programmable macro keys, dedicated media controls, and durable keycaps.
 
+**Keyboards Prices Range:** $50 - $200
+
 ### 5. Mice
 **Description:** Our mice are designed for precision and comfort, catering to gamers and professionals alike. We offer a range of options including wired, wireless, and ergonomic designs to suit various preferences and needs.
-**Prices:** $30 - $150
+
 **Characteristics:**
 - **Sensor Types:** Optical and laser sensors with high DPI settings (up to 16,000 DPI).
 - **Designs:** Ergonomic shapes, ambidextrous options, and customizable weights.
@@ -74,9 +109,11 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** Wired USB, wireless with 2.4GHz and Bluetooth options.
 - **Additional Features:** RGB lighting, high polling rates, and durable switches rated for millions of clicks.
 
+**Mice Prices Range:** $30 - $150
+
 ### 6. Graphics Cards
 **Description:** Our graphics cards are perfect for gamers, graphic designers, and professionals requiring high-performance visual computing. We offer the latest models from top brands, ensuring excellent performance and reliability.
-**Prices:** $200 - $1,500
+
 **Characteristics:**
 - **Chipsets:** NVIDIA GeForce RTX 30 series and AMD Radeon RX 6000 series.
 - **Memory:** Options ranging from 4GB to 24GB of GDDR6/GDDR6X memory.
@@ -84,9 +121,11 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Connectivity:** Multiple HDMI, DisplayPort, and USB-C outputs for multi-monitor setups.
 - **Additional Features:** Ray tracing, AI-enhanced graphics, and overclocking capabilities.
 
+**Graphics Cards Prices Range:** $200 - $1,500
+
 ### 7. Storage Devices
 **Description:** Our storage solutions include both SSDs and HDDs, providing reliable and fast options for all your storage needs. We offer internal and external drives, ensuring you have the right solution for data storage and transfer.
-**Prices:** $50 - $500
+
 **Characteristics:**
 - **Types:** SATA SSDs, NVMe M.2 SSDs, and traditional HDDs.
 - **Capacities:** Ranging from 256GB to 2TB for SSDs and 1TB to 4TB for HDDs.
@@ -94,9 +133,11 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Form Factors:** 2.5-inch, 3.5-inch, and M.2 form factors for various applications.
 - **Durability:** Shock-resistant, vibration-resistant, and high MTBF ratings.
 
+**Storage Devices Prices Range:** $50 - $500
+
 ### 8. Networking Equipment
 **Description:** Our networking equipment includes routers, switches, and Wi-Fi extenders, designed to provide fast and reliable internet connectivity for homes and offices. We offer solutions that cater to both basic and advanced networking needs.
-**Prices:** $20 - $300
+
 **Characteristics:**
 - **Routers:** Dual-band and tri-band routers with speeds up to 10Gbps, MU-MIMO, and QoS features.
 - **Switches:** Managed and unmanaged switches with multiple ports (5, 8, 16, 24).
@@ -104,16 +145,20 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 - **Security:** Advanced security features including firewalls, VPN support, and parental controls.
 - **Additional Features:** Easy setup, mobile app control, and firmware updates.
 
+**Networking Equipment Prices Range:** $20 - $300
+
 ### 9. Accessories
 **Description:** We offer a wide range of computer accessories to enhance your computing experience. From cooling solutions to cables and adapters, our accessories are designed for compatibility and reliability.
-**Prices:** $10 - $100
+
 **Characteristics:**
 - **Cooling Solutions:** CPU coolers, case fans, and thermal paste for efficient heat management.
 - **Cables:** HDMI, DisplayPort, Ethernet, USB, and power cables in various lengths and specifications.
 - **Adapters:** USB hubs, docking stations, and converters for various connectivity needs.
 - **Additional Features:** High-quality materials, durability, and compatibility with multiple devices.
 
-# Frequently Asked Questions (FAQ)
+**Accessories Prices Range:** $10 - $100
+
+## Frequently Asked Questions (FAQ)
 
 ## General Questions
 
@@ -156,32 +201,27 @@ TechNerds provides warranty coverage on all products and a hassle-free return po
 **Q11: Do you provide support for software issues?**
 **A:** Yes, our technical support team can assist with software issues related to the products purchased from TechNerds. This includes help with drivers, software installation, and basic troubleshooting.
 
+**Q12: Do you offer ongoing support after I purchase a custom setup?**
+A: Yes, we provide ongoing support for all our customers, including those who purchase custom setups. Our technical support team is available to assist with any issues, questions, or optimization needs you may have after your purchase.
+
 ## Account and Orders
 
-**Q12: How do I create an account on your website?**
+**Q13: How do I create an account on your website?**
 **A:** To create an account, click on the "Sign Up" button on the top right corner of our website. Fill in the required information, and you'll be ready to start shopping.
 
-**Q13: How can I track my order?**
+**Q14: How can I track my order?**
 **A:** Once your order is shipped, you will receive a tracking number via email. You can use this number to track your order on the carrier's website. Additionally, you can log in to your TechNerds account and view the status of your order under "My Orders."
 
-**Q14: Can I modify or cancel my order after it has been placed?**
+**Q15: Can I modify or cancel my order after it has been placed?**
 **A:** If you need to modify or cancel your order, please contact our customer support team as soon as possible. If the order has not yet been processed, we will do our best to accommodate your request.
 
-## Contact
-### TechNerds Customer Support
-**Phone:** +1-800-TECH-123
-**Email:** support@technerds.com
-**Address:** 1234 Tech Avenue, Silicon Valley, CA, 94043, USA
+## Consulting 
 
-### Business Hours
-**Monday - Friday:** 9 AM - 6 PM
-**Saturday:** 10 AM - 4 PM
-**Sunday:** Closed
-	
-### Social Media
-**Facebook:** facebook.com/TechNerds
-**Twitter:** twitter.com/TechNerds
-**Instagram:** instagram.com/TechNerds
+**Q16: How does your personalized IT consulting service work?**
+A: Our IT consulting service begins with a one-on-one consultation where we assess your needs, budget, and goals. We then provide tailored recommendations for hardware, software, and system configurations. Our experts guide you through the selection process, ensuring you make informed decisions that align with your requirements.
 
-### Live Chat
-Visit our website and click on the live chat icon at the bottom right corner for immediate assistance
+**Q17: Can you help me choose the best components for a custom PC build?**
+A: Absolutely! Our custom PC building consultation service is designed to help you select the optimal components for your needs. We consider factors such as your budget, intended use (e.g., gaming, content creation, office work), and future upgrade plans to recommend the best possible configuration.
+
+**Q18: I'm not tech-savvy. Can you help me choose the right laptop for my needs?**
+A: Of course! Our product selection guidance service is perfect for customers who aren't sure which product is best for them. We'll ask you questions about your intended use, budget, and preferences, then provide clear, jargon-free recommendations tailored to your needs.

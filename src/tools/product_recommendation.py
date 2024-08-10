@@ -2,8 +2,9 @@ import sqlite3
 from pydantic import Field
 from .base_tool import BaseTool
 from litellm import completion
+from langsmith import traceable
 
-
+@traceable(run_type="tool", name="GetProductRecommendation")
 def get_product_recommendation(product_category, user_query):
     """
     Retrieves products from the database based on a user query by leveraging an AI agent to generate search queries.

@@ -1,5 +1,5 @@
 import os
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 # Load environment variables from a .env file
 load_dotenv()
 
-embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-base-en-v1.5")
+embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
 
 vectorstore = Chroma(persist_directory="db", embedding_function=embeddings)
 

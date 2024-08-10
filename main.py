@@ -13,14 +13,14 @@ from src.tools.product_recommendation import GetProductRecommendation
 load_dotenv()
 
 # set langfuse as a callback, litellm will send the data to langfuse
-litellm.success_callback = ["langfuse"]
+litellm.success_callback = ["langsmith"]
 
 # litellm.set_verbose = True
 
 # Choose any model with LiteLLM
 model = "groq/llama3-70b-8192"
 # model = "groq/llama-3.1-70b-versatile"
-# model = "gemini/gemini-1.5-flash"
+# model = "gemini/gemini-1.5-pro"
 
 # agent tools
 tools_list = [

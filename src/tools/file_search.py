@@ -1,6 +1,6 @@
 import os
 from pydantic import Field
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
@@ -11,7 +11,7 @@ from .base_tool import BaseTool
 
 
 def load_retriever():
-    embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-base-en-v1.5")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
     vectorstore = Chroma(persist_directory="db", embedding_function=embeddings)
     vectorstore_retreiver = vectorstore.as_retriever(search_kwargs={"k": 3})
     prompt = ChatPromptTemplate.from_template(RAG_SEARCH_PROMPT_TEMPLATE)
@@ -37,7 +37,7 @@ class GetStoreInfo(BaseTool):
     A tool that retrieves information about TechNerds' business, services, and products based on the provided query.
     """
 
-    query: str = Field(description="Query string")
+    search_query: str = Field(description="Search query")
 
     def run(self):
-        return get_store_info(self.query)
+        return get_store_info(self.search_query)

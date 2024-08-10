@@ -1,7 +1,7 @@
 import os
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_chroma import Chroma
 from langchain.retrievers import EnsembleRetriever
 from langchain_community.retrievers import BM25Retriever
@@ -24,7 +24,7 @@ doc_splitter = RecursiveCharacterTextSplitter(chunk_size=400, chunk_overlap=200)
 doc_chunks = doc_splitter.split_documents(docs)
 
 print("Loading embedding model...")
-embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-base-en-v1.5")
+embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
 
 print("Creating vector store...")
 vectorstore = Chroma.from_documents(doc_chunks, embeddings, persist_directory="db")
